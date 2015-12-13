@@ -3,6 +3,7 @@ What is Zulu
 
 Zulu is a DIY home automation platform/hub with several integrations and features like controlling switches via a RF transmitter, webcam monitoring, Siri integration, Browser/Netflix integration, away mode, vitals monitors and an iOS app to control all of this.
 
+App <http://zulu.oooseun.com/>
 Community
 =========
 
