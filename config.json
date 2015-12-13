@@ -1,0 +1,32 @@
+{
+    "description": "This is an example configuration file with all supported devices. You can use this as a template for creating your own configuration file containing devices you actually own.",
+
+	"accessories": [
+
+	{ "accessory": "Http",
+            "name": "Main  Light",
+            "on_url": "http://0.0.0.0:2015/mainon",
+            "off_url": "http://0.0.0.0:2015/mainoff",
+	"brightness_url": "https://192.168.1.22:3030/devices/23222/brightness/%b",
+            "http_method": "GET"},
+        { "accessory": "Http",
+            "name": "Light 1",
+            "on_url": "http://0.0.0.0:xxxx/switch1on",
+            "off_url": "http://0.0.0.0:xxxx/switch1off",
+	"brightness_url": "https://192.168.1.22:3030/devices/23222/brightness/%b",
+            "http_method": "GET"},
+	{ "accessory": "Http",
+            "name": "Light 2",
+            "on_url": "http://0.0.0.0:xxxx/switch3on",
+            "off_url": "http://0.0.0.0:xxxx/switch3off",
+	"brightness_url": "https://192.168.1.22:3030/devices/23222/brightness/%b",
+            "http_method": "GET"},
+	{ "accessory": "Http",
+            "name": "Light 3",
+            "on_url": "http://0.0.0.0:xxxx/switch2on",
+            "off_url": "http://0.0.0.0:xxxx/switch2off",
+	"brightness_url": "https://192.168.1.22:3030/devices/23222/brightness/%b",
+            "http_method": "GET"}
+
+		]
+}

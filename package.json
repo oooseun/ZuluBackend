@@ -1,0 +1,20 @@
+{
+  "name": "blankapp",
+  "description": "",
+  "version": "0.0.0",
+  "main": "main.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+	  "express":"latest",
+	  "request":"latest",
+	  "twilio":"latest",
+	  "forecastio":"v0.2.0",
+	  "moment":"latest",
+	  "servo.js":"latest",
+	  "pushbullet":"latest",
+      "body-parser":"latest",
+      "multer":"latest"
+  }
+}
