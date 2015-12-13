@@ -3,7 +3,8 @@ What is Zulu
 
 Zulu is a DIY home automation platform/hub with several integrations and features like controlling switches via a RF transmitter, webcam monitoring, Siri integration, Browser/Netflix integration, away mode, vitals monitors and an iOS app to control all of this.
 
-App <http://zulu.oooseun.com/>
+[iOS App](http://zulu.oooseun.com)
+
 Community
 =========
 
@@ -174,3 +175,30 @@ Actual Issues
 -   The mic won’t actually detect sound disruptions. Just very loud bangs, and if that happens, I think you’ve got bigger problems to worry about.
 
 -   Location of the Edison is hardcoded. I could use my phones gps (since they’re integrated somewhat) to get the current location, but then it wasn’t intended to be that way because I’d like to know the weather just where the Edison is and not where the phone is. We have tons of apps for that
+
+Helpful links
+=============
+
+http://tiredhacker.blogspot.com/2015/01/the-most-important-stuff-to-know-about.html
+
+http://rexstjohn.com/configure-intel-edison-for-bluetooth-le-smart-development/
+
+IMPORTANT -?http://alextgalileo.altervista.org/edison-package-repo-configuration-instructions.html
+
+<https://communities.intel.com/message/314612#314612>
+
+<http://davidwalsh.name/upgrade-nodejs>
+
+#### For Bluetooth
+
+> ht<tps://software.intel.com/en-us/articles/connecting-to-intel-edison-from-android-wi>th-bluetooth-le-ble
+
+https://communities.intel.com/search.jspa?q=ble
+
+https://communities.intel.com/message/286012\#286012
+
+https://communities.intel.com/message/262689\#262689
+
+https://communities.intel.com/thread/56120
+
+http://rexstjohn.com/configure-intel-edison-for-bluetooth-le-smart-development/
