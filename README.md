@@ -183,7 +183,7 @@ http://tiredhacker.blogspot.com/2015/01/the-most-important-stuff-to-know-about.h
 
 http://rexstjohn.com/configure-intel-edison-for-bluetooth-le-smart-development/
 
-IMPORTANT -?http://alextgalileo.altervista.org/edison-package-repo-configuration-instructions.html
+IMPORTANT - http://alextgalileo.altervista.org/edison-package-repo-configuration-instructions.html
 
 <https://communities.intel.com/message/314612#314612>
 
@@ -191,7 +191,7 @@ IMPORTANT -?http://alextgalileo.altervista.org/edison-package-repo-configuration
 
 #### For Bluetooth
 
-> ht<tps://software.intel.com/en-us/articles/connecting-to-intel-edison-from-android-wi>th-bluetooth-le-ble
+https://software.intel.com/en-us/articles/connecting-to-intel-edison-from-android-wi>th-bluetooth-le-ble
 
 https://communities.intel.com/search.jspa?q=ble
 
