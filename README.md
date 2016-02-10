@@ -13,7 +13,7 @@ If you're having any issues, feel free to open issues and PRs here
 Disclaimer
 ==========
 
-I’m not a programmer, so some of the code may be a little redundant or inefficient.
+I’m don't program for a living, so some of the code may be a little redundant or inefficient.
 
 Hardware
 ========
