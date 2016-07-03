@@ -76,7 +76,7 @@ Now return back to your home directory on the Edison (using cd commands and usin
 
 This is step is necessary for homebridge (siri control) to work.Now this part will involve you taking a 2hr break, we’re gonna install the latest node. I personally use 0.12.7 but this is the [link](https://nodejs.org/dist/v4.2.3/node-v4.2.3.tar.gz) to the latest, feel free to try that. Copy and paste this, and if it finishes (after ~2 hours) without errors then restart your Edison and make sure ‘node –v’ returns the version you just installed.
 
-> wget https://nodejs.org/dist/v0.12.7node-v0.12.7.tar.gz --no-check-certificate
+> wget https://nodejs.org/download/release/v0.12.7/node-v0.12.7.tar.gz --no-check-certificate
 >
 > tar xvf node-v0.12.7.tar.gz
 >
